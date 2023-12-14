@@ -1,6 +1,6 @@
 # Hello, I'm Prathmesh Patil! 👋
 
-I'm a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I'm a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 . Welcome to my GitHub profile!
 
 ## About Me
