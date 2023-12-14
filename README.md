@@ -1,15 +1,21 @@
-### Hi there 👋
+# Hello, I'm Prathmesh Patil! 👋
 
-- 🔭 I do coding in Golang
-- 🌱 I’m currently learning about Backend Engineering concepts
+I'm a Software Engineer. Welcome to my GitHub profile!
+
+## About Me
+
+- 🔭 I’m currently working as Backend Developer
+- 🌱 I’m currently learning Golang
+- 👯 I’m looking to collaborate on projects that include Go
+- 📫 How to reach me:
   
-- 📫 How to reach me: prathmeshpatilp@gmail.com
-
-- <div id="badges" align="centre">
-  <a href="https://www.linkedin.com/in/prathmeshpatil64/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+  prathmeshpatilp@gmail.com
+    
+  <div id="badges" align="centre">
+      <a href="https://www.linkedin.com/in/prathmeshpatil64/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      </a>
+    </div>
 
 <!--
 **Prthmesh6/Prthmesh6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
