@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Golang and Backend
-- 📫 How to reach me: <div id="badges" align="centre">
+- 🔭 I do coding in Golang
+- 🌱 I’m currently learning about Backend Engineering concepts
+  
+- 📫 How to reach me: prathmeshpatilp@gmail.com
+
+- <div id="badges" align="centre">
   <a href="https://www.linkedin.com/in/prathmeshpatil64/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
