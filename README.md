@@ -1,4 +1,5 @@
-# Hello, I'm Prathmesh Patil! 👋
+# Hello, 
+### :fire: I'm Prathmesh Patil! 👋
 
 I'm a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 . Welcome to my GitHub profile!
@@ -8,8 +9,6 @@ I'm a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 - 🔭 I’m currently working as Backend Developer
 - 🌱 I’m currently learning Golang
 - 👯 I’m looking to collaborate on projects that include Go
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prthmesh6)](https://github.com/Prthmesh6/github-readme-stats)
 
 
 - 📫 How to reach me:
