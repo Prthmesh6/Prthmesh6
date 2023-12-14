@@ -12,17 +12,17 @@ I'm a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 
 - 📫 How to reach me:
-  
-  prathmeshpatilp@gmail.com
+
+:mailbox prathmeshpatilp@gmail.com
     
-  <div id="badges" align="centre">
-      <a href="https://www.linkedin.com/in/prathmeshpatil64/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-      </a>
-    </div>
+<div id="badges" align="centre">
+    <a href="https://www.linkedin.com/in/prathmeshpatil64/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </div>
 
 <div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="100"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="1000"/>
 </div>
 <!--
 **Prthmesh6/Prthmesh6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
