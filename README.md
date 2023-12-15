@@ -7,7 +7,7 @@ I'm a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 ## About Me
 
 - 🔭 I’m currently working as Backend Developer
-- 🌱 I do code in Golang, Python and Java.
+- 🌱 I do coding in Golang, Python and Java
 - 👯 I’m looking to collaborate on projects that include Go
 
 
