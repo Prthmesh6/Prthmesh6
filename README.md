@@ -1,4 +1,4 @@
-###👋 Hi there, I'm Prathmesh Patil
+### 👋 Hi there, I'm Prathmesh Patil
 I love to build softwares and games
 
 - 🔭 I’m currently working on creating a Database in Golang 🐓
