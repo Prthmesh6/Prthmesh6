@@ -16,8 +16,7 @@ I love to build softwares and games
 ### 🧞‍♂️ Im also fascinated by
 [![CockroachDB](https://www.vectorlogo.zone/logos/cockroachlabs/cockroachlabs-icon.svg)](https://www.cockroachlabs.com/)
 
-
-![Prathmesh's Github stats](https://github-readme-stats.vercel.app/api?username=Prthmesh6&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prthmesh6&layout=compact)
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathmeshpatil64) [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathmeshpatilp@gmail.com)
 <!--
