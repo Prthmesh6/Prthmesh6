@@ -1,9 +1,9 @@
 👋 Hi there, I'm Prathmesh Patil
 I love to build softwares and games
 
-🔭 I’m currently working on creating a Database in Golang 🐓
-🌱 I’m currently learning 🤹🏽‍♂️ distributed systems and System Design
-📫 How to reach me: prathmeshpatilp@gmail.com
+- 🔭 I’m currently working on creating a Database in Golang 🐓
+- 🌱 I’m currently learning 🤹🏽‍♂️ distributed systems and System Design
+- 📫 How to reach me: prathmeshpatilp@gmail.com
 
 
 ### 🦄 I work mainly on
