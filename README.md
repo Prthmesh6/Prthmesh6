@@ -5,20 +5,20 @@ I'm a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 . Welcome to my GitHub profile!
 
 ## About Me
-
 - 🔭 Backend Developer
-- 🌱 Proficient Golang, Python and Java
-
-
  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathmeshpatil64) [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathmeshpatilp@gmail.com)
 
-- [prathmeshpatilp@gmail.com](mailto:prathmeshpatilp@gmail.com).
+- [prathmeshpatilp@gmail.com](mailto:prathmeshpatilp@gmail.com)
 
-<div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000"/>
-</div>
-
-
+### 🦄 I work mainly on
+[![Apache Kafka](https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg)](https://kafka.apache.org/)
+[![Golang](https://www.vectorlogo.zone/logos/golang/golang-icon.svg)](https://go.dev/)
+[![Redis](https://www.vectorlogo.zone/logos/redis/redis-icon.svg)](https://redis.io/)
+[![MongoDB](https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg)](https://www.mongodb.com/)
+[![GRPC](https://www.vectorlogo.zone/logos/grpcio/grpcio-icon.svg)](https://grpc.io/)
+[![Postgres](https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg)](https://www.postgresql.org/)
+### 🧞‍♂️ Im also fascinated by
+[![CockroachDB](https://www.vectorlogo.zone/logos/cockroachlabs/cockroachlabs-icon.svg)](https://www.cockroachlabs.com/)
 
 
 
