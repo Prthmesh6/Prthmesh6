@@ -16,8 +16,8 @@ I love to build softwares and games
 ### 🧞‍♂️ Im also fascinated by
 [![CockroachDB](https://www.vectorlogo.zone/logos/cockroachlabs/cockroachlabs-icon.svg)](https://www.cockroachlabs.com/)
 
-- Conect With Me :- 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathmeshpatil64) [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathmeshpatilp@gmail.com)
+### Conect With Me
+- [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathmeshpatil64) [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathmeshpatilp@gmail.com)
 <!--
 **Prthmesh6/Prthmesh6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
